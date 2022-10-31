@@ -1,0 +1,14 @@
+{
+  "name": "xw-utils",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "types": "typings/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xingwen",
+  "license": "ISC"
+}
